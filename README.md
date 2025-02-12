@@ -42,7 +42,7 @@ The following Python libraries were utilized for the analysis:
 ## Share
 
 ### Executive Summary
-* The sample contains a comprehensive summary of the response, impact and key insights gained by the analysis.
+* The [Executive_Summary.pdf](https://github.com/shandilyarnav/Case_Study_Salifort_Motors/blob/main/Executive_Summary.pdf) contains a comprehensive summary of the response, impact and key insights gained by the analysis.
 
 ## Act
 
