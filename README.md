@@ -25,5 +25,33 @@
 ## Process
 
 ### Tools chosen
+The following Python libraries were utilized for the analysis:
+* Pandas
+* NumPy
+* Seaborn
+* Matplotlib
+* Scikit-learn
+* SciPy
+* XGBoost
+
+## Analyze
+
+### Documentation
+* The entire analysis and model implementations are documented in sample.
+
+## Share
+
+### Executive Summary
+* The sample contains a comprehensive summary of the response, impact and key insights gained by the analysis.
+
+## Act
+
+### Next Steps
+* Cap the number of projects that employees can work on.
+* Consider promoting employees who have been with the company for at least four years, or conduct further investigation about why four-year tenured employees are so dissatisfied.
+* Either reward employees for working longer hours, or don't require them to do so.
+* If employees aren't familiar with the company's overtime pay policies, inform them about this. If the expectations around workload and time off aren't explicit, make them clear.
+* Hold company-wide and within-team discussions to understand and address the company work culture, across the board and in specific contexts.
+* High evaluation scores should not be reserved for employees who work 200+ hours per month. Consider a proportionate scale for rewarding employees who contribute more/put in more effort.
 
 
