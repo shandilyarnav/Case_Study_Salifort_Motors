@@ -19,7 +19,7 @@
 ## Prepare
 
 ### Dataset
-* The dataset used is present as a .csv file in the repository. 
+* The dataset used is present as Dataset.csv in the repository. 
 * The dataset used was from (Kaggle)[https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv].
 
 ## Process
